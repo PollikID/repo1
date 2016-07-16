@@ -1,2 +1,3 @@
 println("Goodby")
 print("Goodby World")
+просто нечто
