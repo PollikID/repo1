@@ -1,5 +1,6 @@
-print("Hello World")
-print("Hello everybody")
-Всем привеееет
-print("dance everybody")
-print("I love everybody")
+
+print("Hello World");
+print("Hello everybody");
+Всем привеееет;
+print("dance everybody");
+print("I love everybody");
