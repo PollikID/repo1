@@ -4,3 +4,4 @@ print("Hello everybody");
 print("dance everybody");
 print("I love everybody");
 print("I love my mother");
+и еще что-то
